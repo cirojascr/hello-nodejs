@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "..\\Fork_DO101"
 		}
 	],
 	"settings": {}
